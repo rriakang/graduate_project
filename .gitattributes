@@ -1,3 +1,4 @@
-*.py linguist-detectable=false
+*.py linguist-detectable=true
 *.cpp linguist-detectable=false
+*.js linguist-detectable=false
 *.java linguist-detectable=true
