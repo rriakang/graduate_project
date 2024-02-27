@@ -1,5 +1,6 @@
 # graduate_project
 <img width="1429" alt="스크린샷 2024-02-27 오전 10 32 40" src="https://github.com/rriakang/graduate_project/assets/90817403/070a6771-acf1-498e-9e37-69d73cad9fe8">
+
 ### 1.프로젝트 제안개요
 
 - 프로젝트 주제
