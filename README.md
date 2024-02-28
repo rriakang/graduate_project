@@ -1,6 +1,9 @@
 # graduate_project
 <img width="1429" alt="스크린샷 2024-02-27 오전 10 32 40" src="https://github.com/rriakang/graduate_project/assets/90817403/070a6771-acf1-498e-9e37-69d73cad9fe8">
-
+<img width="641" alt="스크린샷 2024-02-29 오전 1 42 03" src="https://github.com/rriakang/graduate_project/assets/90817403/6ef4823e-4faa-454c-84a8-f0d6ee4eccad">
+<img width="735" alt="스크린샷 2024-02-29 오전 1 42 23" src="https://github.com/rriakang/graduate_project/assets/90817403/0df989f4-50f4-45bd-b320-e7426a4ada37">
+<img width="756" alt="스크린샷 2024-02-29 오전 1 42 47" src="https://github.com/rriakang/graduate_project/assets/90817403/907b59f7-942b-4c9e-b8e4-c1652d745bd0">
+<img width="756" alt="스크린샷 2024-02-29 오전 1 42 54" src="https://github.com/rriakang/graduate_project/assets/90817403/77124525-6623-4a17-b930-d0726c0d2fc7">
 ### 1.프로젝트 제안개요
 
 - 프로젝트 주제
@@ -37,7 +40,7 @@
     
     서버 데이터베이스관리 → 서영진,
     
-    어플 만드는것 → 강리라, 
+    어플 만드는것,팀장 → 강리라, 
     
     IOT 기능구현 → 유승협,강리라,서영진,송승훈
     
